@@ -8,7 +8,7 @@ box-sizing: border-box;
 }
 
 h1{
-    
+    color: rgb(160, 159, 159) ;
     font-family: "New Rocker", system-ui;
     font-weight: 900;
     font-style:italic;
@@ -23,8 +23,8 @@ h1{
 .paragrafo{
     font-family: "New Rocker", system-ui;
   text-align: center;
-  font-size: 70px;
-  color:rgb(173, 1, 1)
+  font-size: 90px;
+  color:rgb(189, 0, 0)
   
 }
 
