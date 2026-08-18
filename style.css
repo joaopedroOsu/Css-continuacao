@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Bricolage');
+@import url('https://fonts.googleapis.com/css2?family=New+Rocker&family=Rock+Salt&display=swap');
 *{
 Margin: 0;
 padding: 0;
@@ -9,28 +9,28 @@ box-sizing: border-box;
 
 h1{
     
-     font-family: "Noto Sans Elbasan", sans-serif;
+    font-family: "New Rocker", system-ui;
     font-weight: 900;
     font-style:italic;
     font-size: 120px;
     text-align: center;
-    color:rgba(212, 0, 255, 0.849);
-    background-color: rgba(212, 0, 255, 0.082);
+    color: rgb(#732424);
+    background-color: rgba(48, 0, 0, 0.719);
 
 }
 
 
 .paragrafo{
-  font-family: "Noto Sans Elbasan", sans-serif;
+    font-family: "New Rocker", system-ui;
   text-align: center;
   font-size: 70px;
-  color:rgb(0, 0, 0)
+  color:rgb(173, 1, 1)
   
 }
 
 body{
-    background-color:pink;
-background-image: url(https://pbs.twimg.com/media/ECWlG18XkAASqZe.jpg);
-
+    background-color:rgb(0, 0, 0);
+background-image: url();
+background-image:linear-gradient( #0D0D0D) ;
 }
 
